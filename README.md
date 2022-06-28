@@ -1,7 +1,4 @@
-## Hi there, I'm Juan Moreno 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/JuanMorenoDev?style=social)](https://twitter.com/JuanMorenoDev)
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniomorenoortega/)](https://www.linkedin.com/in/juanantoniomorenoortega/)
+## Hi there, I'm Juan Moreno 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanMorenoDev?style=social)](https://twitter.com/JuanMorenoDev) [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniomorenoortega/)](https://www.linkedin.com/in/juanantoniomorenoortega/)
 
 <p align="center">
   <a href="https://stackoverflow.com/users/4825845/juanmoreno?tab=profile"><img alt="StackOverFlow Profile" src="https://stackoverflow.com/users/flair/4825845.png"></a>
