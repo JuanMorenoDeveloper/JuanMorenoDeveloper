@@ -17,6 +17,6 @@
 * 📖  I have a [personal blog](https://proitcsolution.com.ve/) where you can find content about java development.
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"])
+![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true)
 
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact)
