@@ -12,7 +12,7 @@
 
 **I help developers to deliver good quality software following the best practices and applying clean code principles.**
 
-* 👨‍💻  Senior Java developer with 8+ years of experience in developing microservices and enterprise applications with Java / Jakarta EE using technologies such as Spring Framework, EJB, JPA, JAX-WS, JAX-RS, and JSF. I developed multiple system integrations with Web Services SOAP and Restful APIs. I’m an enthusiast of best development practices like SOLID, testing, and Clean Architecture. I’m a user and contributor to open-source technologies. In my daily work, I’m a practitioner of DevOps and related tools like Docker containers, Continuous Integration, Unit Testing, and Static Code Analysis.
+* 👨‍💻  Senior Java developer with 8+ years of experience in developing microservices and enterprise applications with Java / Jakarta EE using technologies such as Spring Framework, Dropwizard, EJB, JPA, JAX-WS, JAX-RS, and JSF. I developed multiple system integrations with Web Services SOAP and Restful APIs. I’m an enthusiast of best development practices like SOLID, testing, and Clean Architecture. I’m a user and contributor to open-source technologies. In my daily work, I’m a practitioner of DevOps and related tools like Docker containers, Continuous Integration, Unit Testing, and Static Code Analysis.
 
 * 📖  I have a [personal blog](https://proitcsolution.com.ve/) where you can find content about java development.
 <br />
