@@ -11,9 +11,9 @@
 
 **I help developers deliver 🚀 good quality ✨ software that follows the best practices and applies clean code 🛡 principles.**
 
-* 👨‍💻 Senior Java ☕ Developer with 9+ years of experience in developing microservices and enterprise applications using Java/Jakarta EE. Proficient in utilizing technologies such as the Spring Framework, EJB, JPA, JAX-WS, JAX-RS, and JSF. Developed numerous system integrations with Web Services SOAP and RESTful APIs. Enthusiastic about best development practices such as SOLID principles, testing, and Clean Architecture. Actively involved as a user and contributor to open-source technologies. In my daily work, I practice DevOps and employ related tools like Docker containers, Continuous Integration, Unit Testing, and Static Code Analysis.
+* 👨‍💻 Senior Java ☕ Developer with 9+ years of experience in developing microservices and enterprise applications using Java/Jakarta EE. Proficient in utilizing technologies 🛠️ such as the Spring Framework, EJB, JPA, JAX-WS, JAX-RS, and JSF. Developed numerous system integrations with Web Services SOAP and RESTful APIs 🌐. Enthusiastic about best development practices 🦾 such as SOLID principles, testing, and Clean Architecture. I am actively involved as a user and contributor ⌨️ to open-source technologies. In my daily work, I practice DevOps and employ related tools like Docker 🐳 containers, Continuous Integration, Unit Testing 🧪, and Static Code Analysis 🕵️.
 
-* 📖  I have a [personal blog](https://proitcsolution.com.ve/) where you can find content about java development.
+* 📖  I have a [personal blog](https://proitcsolution.com.ve/) 📝 where you can find content about java development.
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true&rank_icon=github)
