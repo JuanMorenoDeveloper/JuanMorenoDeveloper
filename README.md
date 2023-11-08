@@ -17,10 +17,12 @@
 <br />
 
 **Public speaking**
-| Date       | Event                                   | Talk                                             |
-|------------|-----------------------------------------|--------------------------------------------------|
-| 2022-09-28 | Devops Montevideo Meetup                | Testcontainers Introduction                      |
-| 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests |
+I have had the opportunity to participate as a speaker in public events, stay tuned for more.
+
+| Date       | Event                                   | Talk                                             | Slides                                          |
+|------------|-----------------------------------------|--------------------------------------------------|-------------------------------------------------|
+| 2022-09-28 | Devops Montevideo Meetup                | Introducción a Testcontainers                    | https://bit.ly/testcontainers-intro             |
+| 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests | https://bit.ly/testcontainers-devcareerday-2023 |
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true&rank_icon=github)
 
