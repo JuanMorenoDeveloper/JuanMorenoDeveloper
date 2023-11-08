@@ -16,6 +16,12 @@
 * 📖  I have a [personal blog](https://proitcsolution.com.ve/) 📝 where you can find content about java development.
 <br />
 
+**Public speaking**
+| Date       | Event                                   | Talk                                             |
+|------------|-----------------------------------------|--------------------------------------------------|
+| 2022-09-28 | Devops Montevideo Meetup                | Testcontainers Introduction                      |
+| 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests |
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,html)
