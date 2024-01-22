@@ -19,8 +19,9 @@
 **Public speaking**
 I have had the opportunity to participate as a speaker in public events, stay tuned for more.
 
-| Date       | Event                                   | Talk                                             | Slides                                          |
+| Date       | Event / Organization                    | Talk                                             | Slides                                          |
 |------------|-----------------------------------------|--------------------------------------------------|-------------------------------------------------|
+| 2020-12-16 | Tech School Embu                        | Legacy code! Here's how to deal with it          | https://bit.ly/embu-refactoring                 |
 | 2022-09-28 | Devops Montevideo Meetup                | Introducción a Testcontainers                    | https://bit.ly/testcontainers-intro             |
 | 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests | https://bit.ly/testcontainers-devcareerday-2023 |
 
