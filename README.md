@@ -28,4 +28,7 @@ I have had the opportunity to participate as a speaker in public events, stay tu
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,html)
+![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,HTML)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
