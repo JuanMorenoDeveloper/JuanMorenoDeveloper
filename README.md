@@ -26,11 +26,9 @@ I have had the opportunity to participate as a speaker in public events, stay tu
 | 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests | https://bit.ly/testcontainers-devcareerday-2023 |
 | 2024-04-06 | Riyadh Java User Group                  | How to use Testcontainers with integration tests | https://www.youtube.com/watch?v=ktewRgzRFGw     |
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMorenoDeveloper&hide=["prs","issues"]&count_private=true&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,HTML)
 
 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JuanMorenoDeveloper&theme=light)
 
