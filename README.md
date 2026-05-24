@@ -28,7 +28,19 @@ I have had the opportunity to participate as a speaker in public events, stay tu
 
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,HTML)
 
-🏆 GitHub Profile Trophy
+🏆 My GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JuanMorenoDeveloper&theme=light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMorenoDev&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMorenoDev&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMorenoDev&theme=default" alt="Juan's GitHub stats" />
+</picture>
+
+🏆 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMorenoDev&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMorenoDev&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMorenoDev&theme=default" alt="Juan's GitHub profile details" />
+</picture>
 
