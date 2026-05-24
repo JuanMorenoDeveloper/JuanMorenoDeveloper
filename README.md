@@ -26,9 +26,15 @@ I have had the opportunity to participate as a speaker in public events, stay tu
 | 2023-11-04 | International Developer Career Day 2023 | How to use Testcontainers with integration tests | https://bit.ly/testcontainers-devcareerday-2023 |
 | 2024-04-06 | Riyadh Java User Group                  | How to use Testcontainers with integration tests | https://www.youtube.com/watch?v=ktewRgzRFGw     |
 
-![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=JuanMorenoDeveloper&layout=compact&exclude_repo=pollyjs,highlight.js,camel-labs&langs_count=10&hide=css,scss,xslt,HTML)
+🛠️ Languages and Tools
 
-🏆 My GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" alt="Matt's most used languages" />
+</picture>
+
+👨‍💻 My GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMorenoDev&theme=radical" />
@@ -36,7 +42,7 @@ I have had the opportunity to participate as a speaker in public events, stay tu
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMorenoDev&theme=default" alt="Juan's GitHub stats" />
 </picture>
 
-🏆 Contribution Activity
+🦾 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMorenoDev&theme=radical" />
